@@ -17,8 +17,8 @@ android {
     def shortCommitHash = "git rev-parse --short HEAD".execute().text.trim()
 
     defaultConfig {
-        applicationId "pro.sketchware.naruto"
-        namespace "pro.sketchware.naruto"
+        applicationId "pro.sketchware"
+        namespace "pro.sketchware"
         //noinspection ExpiredTargetSdkVersion since we don't target getting Sketchware Pro on Google Play.
         targetSdkVersion 28
         minSdkVersion 26
@@ -30,7 +30,7 @@ android {
         buildConfigField("String", "FLAVOR_NAME_WITH_AABS", "\"minApi26\"")
         buildConfigField("String", "FLAVOR_NAME_WITHOUT_AABS", "\"minApi21\"")
 
-        buildConfigField("String", "VERSION_NAME_WITHOUT_FLAVOR", "\"v7.0.0-SNAPSHOT-Naruto-${shortCommitHash}\"")
+        buildConfigField("String", "VERSION_NAME_WITHOUT_FLAVOR", "\"v7.0.0-SNAPSHOT-${shortCommitHash}\"")
 
         buildConfigField("String", "SKETCHUB_API_KEY", "\"${System.getenv("SKETCHUB_API_KEY")}\"")
     }
