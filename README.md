@@ -3,11 +3,11 @@
 </p>
 
 # Sketchware Pro
-[![GitHub contributors](https://img.shields.io/github/contributors/Sketchware-Pro/Sketchware-Pro)](https://github.com/Sketchware-Pro/Sketchware-Pro/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Sketchware-Pro/Sketchware-Pro)](https://github.com/Sketchware-Pro/Sketchware-Pro/commits/)
-[![Discord server stats](https://img.shields.io/discord/790686719753846785)](http://discord.gg/kq39yhT4rX)
-[![Total downloads](https://img.shields.io/github/downloads/Sketchware-Pro/Sketchware-Pro/total)](https://github.com/Sketchware-Pro/Sketchware-Pro/releases)
-[![Repository Size](https://img.shields.io/github/repo-size/Sketchware-Pro/Sketchware-Pro)](https://github.com/Sketchware-Pro/Sketchware-Pro)
+[![GitHub contributors](https://img.shields.io/github/contributors/Naruto1730/Sketchware-Pro)](https://github.com/Naruto1730/Sketchware-Pro/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Sketchware-Pro/Sketchware-Pro)](https://github.com/Naruto1730/Sketchware-Pro/commits/)
+[![Discord server stats](https://img.shields.io/discord/790686719753846785)](https://discord.gg/DEwtPbY2)
+[![Total downloads](https://img.shields.io/github/downloads/Naruto1730/Sketchware-Pro/total)](https://github.com/Naruto1730/Sketchware-Pro/releases)
+[![Repository Size](https://img.shields.io/github/repo-size/Sketchware-Pro/Sketchware-Pro)](https://github.com/Naruto1730/Sketchware-Pro)
 
 Welcome to Sketchware Pro! Here you'll find the source code of many classes in Sketchware Pro and, most importantly, the place to contribute to Sketchware Pro.
 
@@ -72,7 +72,7 @@ Thank you for contributing to Sketchware Pro! Your contributions help keep Sketc
 
 Want to chat with us, discuss changes, or just hang out? We have a Discord server just for that.
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/kq39yhT4rX)](http://discord.gg/kq39yhT4rX)
+[![Join our Discord server!](https://invidget.switchblade.xyz/kq39yhT4rX)](https://discord.gg/DEwtPbY2)
 
 ## Disclaimer
 
